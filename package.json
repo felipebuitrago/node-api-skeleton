@@ -1,0 +1,13 @@
+{
+  "name": "ecomagdalena-df",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "Felipe Buitrago - DevDocky",
+  "license": "ISC"
+}
